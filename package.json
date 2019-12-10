@@ -1,0 +1,17 @@
+{
+  "name": "ujs-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
+  "license": "(Apache-2.0 AND MIT)",
+  "dependencies": {
+    "base32-encoding": "^1.0.0",
+    "puppeteer": "^2.0.0",
+    "puppeteer-to-istanbul": "^1.2.2"
+  }
+}
